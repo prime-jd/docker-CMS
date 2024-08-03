@@ -46,7 +46,7 @@ After Submitting day , time table of particular date is displayed <br>
 #### Fetch Period (student)
 After submitting day A form opened to fill details and after clicking fetch button it automatically fills the data by fetching and comparing  current date and time with that in timetable.
 
-<img src="images/fetchperiod.png">
+<img src="images/fetchPeriod.png">
 
 to verify the record the correct sets of schedule within that range is displayed as
 
