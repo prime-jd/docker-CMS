@@ -1,3 +1,5 @@
+ [backend] https://github.com/prime-jd/cms
+ [frontend] https://github.com/prime-jd/frontend-cms
 # Class Monitoring System 
 
 <img src="images/cms.png">
